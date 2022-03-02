@@ -1,0 +1,44 @@
+
+*{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+#all{
+   padding: 50px;
+   border: 5px solid #eee;
+   border-radius: 20px;
+   color: blue;
+}
+#clock{
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
+    font-size: 70px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border: 2px;
+    border: 30px;
+
+}
+#day-date{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border: 2px;
+    border-radius: 30px;
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 500px;
+    font-family: "press start 2p";
+}
+h1{
+    text-align: center;
+    color: azure;
+}
